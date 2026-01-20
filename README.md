@@ -1,4 +1,4 @@
-# Day-3-Project
+# Project 3
 
 ## Treasure Island
 
